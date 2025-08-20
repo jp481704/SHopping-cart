@@ -1,13 +1,35 @@
-# React + Vite
+# 🛒 React E-commerce App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React-based e-commerce application** with core shopping features like product listing, product details, search, login authentication, and add-to-cart functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Product Search** – Search products dynamically by name  
+- 👤 **Login** – User authentication for secure access  
+- 🛍️ **Product Listing** – Browse all products with clean UI  
+- 📄 **Product Details Page** – View detailed information of each product  
+- 🛒 **Add to Cart** – Add items to your shopping cart with quantity management  
+- 🎨 **Modern UI** – Responsive design using TailwindCSS  
+- ⚡ **API Integration** – Products fetched from [FakeStore API](https://fakestoreapi.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# SHopping-cart
+---
+
+## 🛠️ Tech Stack  
+
+- **React 18**  
+- **React Router**  
+- **Axios** (API calls)  
+- **Tailwind CSS** (styling)  
+
+---
+
+## 📦 Installation  
+
+1. Clone the repo  
+
+```bash
+git https://github.com/jp481704/SHopping-cart.git
+cd SHopping-cart
+
